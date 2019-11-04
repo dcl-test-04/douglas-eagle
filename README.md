@@ -1,2 +1,1 @@
-# douglas-eagle
-Douglas Eagle's repo
+# Douglas Eagle's repo
